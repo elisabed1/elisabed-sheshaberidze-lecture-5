@@ -14,6 +14,18 @@
 	font-weight: 700;
 	line-height: normal;
 }
+.first1{
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 54px;
+	margin-left: 60px;
+	color: #30CBC2;
+	font-family: Inter;
+	font-size: 48px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
 nav{
 	display: inline-block;
 	vertical-align: middle;
@@ -87,12 +99,16 @@ h2{
 	margin-top: 8px;
 	}
 .blue{
-	display: inline-block;
 	vertical-align: top;
+	margin-right: 66px;
+	margin-bottom: 155px;
+}
+.p{
+	display: inline-block;
 }
 .firstp{
 	width: 778px;
-	height: 353px;
+	height: 200px;
 	color: #4E6FAE;
 	font-family: BPG Square;
 	font-size: 16px;
@@ -101,3 +117,88 @@ h2{
 	line-height: normal;
 	display: inline-block;
 	}
+.pil{
+	color: #4E6FAE;
+	font-family: BPG Square;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	vertical-align: top;
+	display: inline-block;
+	vertical-align: top;
+}
+}
+
+.purple{
+		margin-bottom: 155px;
+}
+.firstp2{
+	display: inline-block;
+	vertical-align: top;
+	width: 778px;
+	height: 280px;
+	color: #4E6FAE;
+	font-family: BPG Nino Mtavruli ;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-left: 66px;
+	}
+.firstp3{
+	width: 1021px;
+	height: 148px;
+	color: #4E6FAE;
+	font-family: BPG Nostalgia;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-top: 32px;
+}
+
+
+.container2{
+	margin: 194px;
+}
+.card1{
+	display: inline-block;
+	width: 500px;
+	height: 192px;
+	background: #E7E7E7;
+/*	padding: 21px 15px 31px 23px;*/
+	}
+h6{
+	width: 307px;
+	color: #3F4145;
+	font-family: Roboto;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	}
+.card2{
+	display: inline-block;
+	vertical-align: top;
+	width: 500px;
+	height: 192px;
+	background: #E7E7E7;
+}
+
+.f {
+	margin-top: 143px;
+	margin-right: 41px;
+	margin-bottom: 285px;
+}
+.l {
+	margin-top: 143px;
+	margin-right: 41px;
+	margin-bottom: 285px;
+
+}
+.y{
+	margin-top: 143px;
+	margin-right: 41px;
+	margin-bottom: 285px;
+}
