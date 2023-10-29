@@ -1,6 +1,6 @@
 .container{
 	margin-right: 97px;
-	margin-left: 54px;
+	margin-left: 60px;
 	
 }
 .first{
@@ -30,11 +30,12 @@ nav{
 	display: inline-block;
 	vertical-align: middle;
 }
-li{
+li{	width: 115px;
+	height: 34px;
 	display: inline-block;
 	vertical-align: middle;
 	margin-top: 66px;
-	margin-right: 87px;
+	margin-right:87px;
 	margin-left: 87px;
 }
 a{
@@ -97,38 +98,33 @@ h2{
 	font-weight: 700;
 	line-height: normal;
 	margin-top: 8px;
+	margin-bottom: 13px;
 	}
 .blue{
-	vertical-align: top;
+	vertical-align:top;
 	margin-right: 66px;
 	margin-bottom: 155px;
 }
 .p{
 	display: inline-block;
+	vertical-align: tex-top;
+}
+.p1{
+	display: inline-block;
+	vertical-align: top;
 }
 .firstp{
 	width: 778px;
-	height: 200px;
+	height: 100px;
 	color: #4E6FAE;
 	font-family: BPG Square;
 	font-size: 16px;
 	font-style: normal;
 	font-weight: 700;
 	line-height: normal;
-	display: inline-block;
+	margin-top: 13px;
+/*	border: 2px solid black;*/
 	}
-.pil{
-	color: #4E6FAE;
-	font-family: BPG Square;
-	font-size: 16px;
-	font-style: normal;
-	font-weight: 700;
-	line-height: normal;
-	vertical-align: top;
-	display: inline-block;
-	vertical-align: top;
-}
-}
 
 .purple{
 		margin-bottom: 155px;
@@ -171,7 +167,6 @@ h2{
 	}
 .nh5{
 	color: #3F4145;
-	font-family: Roboto;
 	font-size: 20px;
 	font-style: normal;
 	font-weight: 400;
@@ -212,7 +207,7 @@ h6{	display: inline-block;
 	vertical-align: top;
 	width: 300px;
 	color: #3F4145;
-	font-family: Roboto;
+	font-family: 'Roboto', sans-serif;
 	font-size: 20px;
 	font-style: normal;
 	font-weight: 400;
@@ -231,7 +226,7 @@ h1{
 	width: 474px;
 	height: 34px;
 	color: #4E6FAE;
-	font-family: Helvetica Neue;
+	font-family: "Arial GEO BoldItalic", sans-serif;
 	font-size: 36px;
 	font-style: normal;
 	font-weight: 700;
@@ -241,10 +236,10 @@ p{	margin-top: 23px;
 	width: 434px;
 	height: 34px;
 	color: #7E8898;
-	font-family: Helvetica Neue LT GEO;
-	font-size: 20px;
+	font-family: "ALK Sanet", sans-serif;
+	font-size: 19px;
 	font-style: normal;
-	font-weight: 400;
+	font-weight: 300;
 	line-height: normal;
 	color: #3F4145;
 	}
@@ -268,4 +263,10 @@ p{	margin-top: 23px;
 	margin-top: 143px;
 	margin-right: 41px;
 	margin-bottom: 285px;
+}
+.f1 {
+	margin-top: 143px;
+	margin-right: 41px;
+	margin-bottom: 285px;
+	margin-left: 96px;
 }
